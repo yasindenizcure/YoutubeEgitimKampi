@@ -31,3 +31,6 @@ Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan al
 
 Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi:
 Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim.
+
+Proje 10: Veritabanı Üzerinde Listeleme, Ekleme, Güncelleme ve Silme İşlemleri:
+Bu projede, Kullanıcıdan tablo seçimini alarak hangi tablodan hangi verileri C# üzerinden listelemeyi, güncellemeyi, eklemeyi ve silmeyi öğrendim. 
