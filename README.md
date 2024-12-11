@@ -34,3 +34,6 @@ Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi �
 
 Proje 10: Veritabanı Üzerinde Listeleme, Ekleme, Güncelleme ve Silme İşlemleri:
 Bu projede, Kullanıcıdan tablo seçimini alarak hangi tablodan hangi verileri C# üzerinden listelemeyi, güncellemeyi, eklemeyi ve silmeyi öğrendim. 
+
+Proje 11: N Katmanlı Mimari Entity Layer:
+Bu projede, eğitim kampının 301 modülü olan Entity Layer ve genel katman yapısını öğrendim. Bir concrete klasörü altında SQL tablo yapısınında ki Product,Order,Customer,Category tablolarının class'ları oluşturdum.
