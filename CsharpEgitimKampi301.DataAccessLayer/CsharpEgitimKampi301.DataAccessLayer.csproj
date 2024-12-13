@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE2F13B5-D41A-4328-B252-9916120C6C34}</ProjectGuid>
+    <ProjectGuid>{018DA14F-99E4-4369-B13D-751B86D41E49}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CsharpEgitimKampi301.EntityLayer</RootNamespace>
-    <AssemblyName>CsharpEgitimKampi301.EntityLayer</AssemblyName>
+    <RootNamespace>CsharpEgitimKampi301.DataAccessLayer</RootNamespace>
+    <AssemblyName>CsharpEgitimKampi301.DataAccessLayer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -51,16 +51,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Concrete\Admin.cs" />
-    <Compile Include="Concrete\Category.cs" />
-    <Compile Include="Concrete\Customer.cs" />
-    <Compile Include="Concrete\Order.cs" />
-    <Compile Include="Concrete\Product.cs" />
+    <Compile Include="Context\KampContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CsharpEgitimKampi301.EntityLayer\CsharpEgitimKampi301.EntityLayer.csproj">
+      <Project>{be2f13b5-d41a-4328-b252-9916120c6c34}</Project>
+      <Name>CsharpEgitimKampi301.EntityLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="EntityFramework\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
