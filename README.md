@@ -37,3 +37,6 @@ Bu projede, Kullanıcıdan tablo seçimini alarak hangi tablodan hangi verileri 
 
 Proje 11: N Katmanlı Mimari Entity Layer:
 Bu projede, eğitim kampının 301 modülü olan Entity Layer ve genel katman yapısını öğrendim. Bir concrete klasörü altında SQL tablo yapısınında ki Product,Order,Customer,Category tablolarının class'ları oluşturdum.
+
+Proje 12: Data Access Katmanı ve Context Sınıfı:
+Bu projede, Data Access katmanı ve diğer katmanların birbirleriyle olan referanslarını ekledim. Context isimli bir class oluşturdum ve EntityFramework Paketlerini kurmayı ve App.config yapısına ConnectionString eklemeyi öğrendim.
