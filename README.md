@@ -43,3 +43,6 @@ Bu projede, Data Access katmanı ve diğer katmanların birbirleriyle olan refer
 
 Proje 13: Migration İşlemleri ve Abstract İnterface:
 Bu projede, öncelikle package manager console ne işe yaradığını ve nasıl açıldığını öğrendim. Migration ne demek olduğunu ne işimize yaradığını abstract class ve interface mantığını anladım.
+
+Proje 14: ORM Yapısı Database First ve Code First Farklılıkları:
+Bu projede, genel ORM yapısı hakkında bilgi edindim. Database first yaklaşımı ile code first arasındaki farkları öğrendim ve EntityFramework DB First ile SQL üzerinden oluşturduğumuz tablo ve diyagramları Visual Studio'ya aktarmayı öğrendim.
