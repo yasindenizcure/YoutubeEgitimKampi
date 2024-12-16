@@ -40,3 +40,6 @@ Bu projede, eğitim kampının 301 modülü olan Entity Layer ve genel katman ya
 
 Proje 12: Data Access Katmanı ve Context Sınıfı:
 Bu projede, Data Access katmanı ve diğer katmanların birbirleriyle olan referanslarını ekledim. Context isimli bir class oluşturdum ve EntityFramework Paketlerini kurmayı ve App.config yapısına ConnectionString eklemeyi öğrendim.
+
+Proje 13: Migration İşlemleri ve Abstract İnterface:
+Bu projede, öncelikle package manager console ne işe yaradığını ve nasıl açıldığını öğrendim. Migration ne demek olduğunu ne işimize yaradığını abstract class ve interface mantığını anladım.
