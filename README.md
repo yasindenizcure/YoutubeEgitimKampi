@@ -46,3 +46,6 @@ Bu projede, öncelikle package manager console ne işe yaradığını ve nasıl 
 
 Proje 14: ORM Yapısı Database First ve Code First Farklılıkları:
 Bu projede, genel ORM yapısı hakkında bilgi edindim. Database first yaklaşımı ile code first arasındaki farkları öğrendim ve EntityFramework DB First ile SQL üzerinden oluşturduğumuz tablo ve diyagramları Visual Studio'ya aktarmayı öğrendim.
+
+Proje 15: Entity Framework Metotları ile Proje Uygulaması:
+Bu projede, Entity Framework metotları ile tur rehber projesinin girişini yaptım. Normalde Database'de yapabileceğimiz işlemleri Entity Framework aracılığıyla c# form yapısında yapmayı öğrendim. Bunun sayesinde query yazmayı bilmeden bile database üzerinde 'crud' işlemleri yapabileceğimizi öğrendim.
