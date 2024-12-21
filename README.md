@@ -52,3 +52,8 @@ Bu projede, Entity Framework metotları ile tur rehber projesinin girişini yapt
 
 Proje 16: Entity Framework ile Tur Projesi Location Uygulaması:
 Bu projede, tur rehber projesinin location kısmını yaptım. Location tablosuna bilgi ekleme, silme, güncelleme ve listeleme işlemleri yapmayı ekledim ve location kısmının textbox label ve datagridview ile temel seviyede form tasarımını yaptım.
+
+Proje 17: Entity Framework Metotları ve Linq Sorgular:
+Bu projede, tur rehber projesinin veritabanından istediğimiz spesifik sorguları form ekranında gösterdim. Veritabanıyla bağlantılı şekilde çalışıp güncellenen ve bize en yüksek fiyat, ortalama kapasite, eklenen son ülke vs. gibi sorguları yaptım. 
+![Ekran Alıntısı](https://github.com/user-attachments/assets/4630ffb8-7d42-4264-b3fd-6081c03c1f47)
+
