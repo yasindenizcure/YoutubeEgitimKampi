@@ -57,3 +57,5 @@ Proje 17: Entity Framework Metotları ve Linq Sorgular:
 Bu projede, tur rehber projesinin veritabanından istediğimiz spesifik sorguları form ekranında gösterdim. Veritabanıyla bağlantılı şekilde çalışıp güncellenen ve bize en yüksek fiyat, ortalama kapasite, eklenen son ülke vs. gibi sorguları yaptım. 
 ![Ekran Alıntısı](https://github.com/user-attachments/assets/4630ffb8-7d42-4264-b3fd-6081c03c1f47)
 
+Proje 18: EntityState Komutları ve Generic Repository Sınıfı:
+Bu projede, EntityState komutlarını (modified, deleted,added,detached,unchanged vs.) öğrendim. Generic repository oluşturdum ve generic repository'den miras alan EntityFramework Class'ları ekledim.
