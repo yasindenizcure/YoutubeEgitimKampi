@@ -49,3 +49,6 @@ Bu projede, genel ORM yapısı hakkında bilgi edindim. Database first yaklaşı
 
 Proje 15: Entity Framework Metotları ile Proje Uygulaması:
 Bu projede, Entity Framework metotları ile tur rehber projesinin girişini yaptım. Normalde Database'de yapabileceğimiz işlemleri Entity Framework aracılığıyla c# form yapısında yapmayı öğrendim. Bunun sayesinde query yazmayı bilmeden bile database üzerinde 'crud' işlemleri yapabileceğimizi öğrendim.
+
+Proje 16: Entity Framework ile Tur Projesi Location Uygulaması:
+Bu projede, tur rehber projesinin location kısmını yaptım. Location tablosuna bilgi ekleme, silme, güncelleme ve listeleme işlemleri yapmayı ekledim ve location kısmının textbox label ve datagridview ile temel seviyede form tasarımını yaptım.
