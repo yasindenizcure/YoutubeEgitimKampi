@@ -59,3 +59,6 @@ Bu projede, tur rehber projesinin veritabanından istediğimiz spesifik sorgular
 
 Proje 18: EntityState Komutları ve Generic Repository Sınıfı:
 Bu projede, EntityState komutlarını (modified, deleted,added,detached,unchanged vs.) öğrendim. Generic repository oluşturdum ve generic repository'den miras alan EntityFramework Class'ları ekledim.
+
+Proje 19: Business Layer ve Logic Kurallar:
+Bu projede, Business katmanına abstract klasörü oluşturup burda Category-Customer-Generic-Order-Product interface'leri oluşturdum. Concrete klasörü oluşturup bu klasörün altına ise Category-Customer-Order-Product class'ları oluşturdum. Amacımız burda verilerin DataAccess katmanından alınıp Business katmanında gösterilmesidir.
