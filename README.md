@@ -62,3 +62,6 @@ Bu projede, EntityState komutlarını (modified, deleted,added,detached,unchange
 
 Proje 19: Business Layer ve Logic Kurallar:
 Bu projede, Business katmanına abstract klasörü oluşturup burda Category-Customer-Generic-Order-Product interface'leri oluşturdum. Concrete klasörü oluşturup bu klasörün altına ise Category-Customer-Order-Product class'ları oluşturdum. Amacımız burda verilerin DataAccess katmanından alınıp Business katmanında gösterilmesidir.
+
+Proje 20: Dependency Injection:
+Bu projede, Dependency Injection kavramını ve nerelerde kullanıldığını öğrendim. Ayrıca Business Layer'da Concrete'te bulunan Category-Customer-Order-ProductManager'da kalan işlemlerimi tamamladım. (GetById,Delete,Update,Insert,Constructor oluşturmak vs.)
