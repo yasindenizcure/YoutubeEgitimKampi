@@ -65,3 +65,6 @@ Bu projede, Business katmanına abstract klasörü oluşturup burda Category-Cus
 
 Proje 20: Dependency Injection:
 Bu projede, Dependency Injection kavramını ve nerelerde kullanıldığını öğrendim. Ayrıca Business Layer'da Concrete'te bulunan Category-Customer-Order-ProductManager'da kalan işlemlerimi tamamladım. (GetById,Delete,Update,Insert,Constructor oluşturmak vs.)
+
+Proje 21: Entity'e Özgü Metotlar:
+Bu projede, Data Access Layer'da EntityFramework diye yeni bir klasör oluşturdum. Hepsi (EfAdminDal,EfCategoryDal,EfProductDal,EfCustomerDal,EfOrderDal) Generic Repositories'den miras alan yeni public class'lar. Product için yeni bir form oluşturdum ve SQL'e yeni veri girişleri yaptım. 
